@@ -1,2 +1,3 @@
 nombre de juego
 cambios desde primeraRama
+Cambios desde la rama hija
